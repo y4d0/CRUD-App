@@ -13,7 +13,7 @@ This CRUD (Create, Read, Update, Delete) application is a simple user management
 - **Frontend**: HTML, CSS, JavaScript, EJS templating
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Styling**: Custom CSS and Bootstrap (for responsive design)
+- **Styling**: Custom CSS
 
 ## Installation
 
